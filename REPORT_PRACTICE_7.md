@@ -70,7 +70,7 @@ import os; os.system('rm -rf /')
 
 ### 4.2. Ссылка на Pull Request
 
-<!-- Вставьте ссылку на Pull Request: feature/practice-7 → develop -->
+https://github.com/d89535719016-rgb/lab-onboarding-Isaenko/pull/7
 
 ### 4.3. Скриншот зеленого статуса проверки (Checks)
 
