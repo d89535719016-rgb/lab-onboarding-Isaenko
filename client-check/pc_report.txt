@@ -1,0 +1,54 @@
+==================================================
+   Диагностика компьютера
+==================================================
+
+Операционная система
+--------------------------------------------------
+Название: Microsoft Windows 11 Home Single Language
+Версия: 10.0.26200
+
+Процессор
+--------------------------------------------------
+12th Gen Intel(R) Core(TM) i5-12450H
+
+Оперативная память
+--------------------------------------------------
+Всего памяти: 15 ГБ
+Свободно памяти: 6 ГБ
+
+Диск C
+--------------------------------------------------
+Размер диска: 199 ГБ
+Свободно: 116 ГБ
+
+Установленные программы
+--------------------------------------------------
+draw.io 31.5.3
+HW OSD
+Huawei PC Manager(Multi-screen Collaboration and Official Driver)
+PostgreSQL 18 
+Microsoft Office LTSC профессиональный плюс 2021 - ru-ru
+WinRAR 5.80 (64-разрядная)
+Microsoft Windows Application Compatibility Fix Database
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211
+MantaRay
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211
+Office 16 Click-to-Run Licensing Component
+Office 16 Click-to-Run Extensibility Component
+Office 16 Click-to-Run Localization Component
+Microsoft Teams Meeting Add-in for Microsoft Office
+Microsoft Update Health Tools
+AnyDesk
+Google Chrome
+Microsoft Edge
+Среда выполнения Microsoft Edge WebView2 Runtime
+qBittorrent
+Steam
+WDT_Device_Driver
+Яндекс Браузер с Алисой AI (All Users)
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35211
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.44.35211
+Adobe Acrobat XI Pro
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.44.35211
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.44.35211
+
